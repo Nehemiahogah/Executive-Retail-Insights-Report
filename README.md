@@ -24,7 +24,7 @@ Insights And Recommendation are provided on the following key areas based on wha
 ### Data Structure Overview
   Novamart Ltd. retail transactional data contains information about customers, their purchases, products, and transaction details. The data includes various attributes such as customer ID, name, email, phone, address, city, state, zipcode, country, age, gender, income, customer segment, last purchase date, total purchases, amount spent, product category, product brand, product type, feedback, shipping method, payment method, and order status.
   The company's dataset has a rowcount of over 302,000 rows where each row contains a unique transaction in the company over the course of two years (2023 - 2024)
-![Uncleaned data ](https://github.com/user-attachments/assets/3ed62ba9-a293-4414-8023-bfa72642c20b)
+
 
 
 Prior to starting my analysis, I cleaned the data set and the thought process and everything I did in my data leaning process can be found in my issue log here
