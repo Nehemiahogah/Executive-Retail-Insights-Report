@@ -11,14 +11,15 @@ Insights And Recommendation are provided on the following key areas based on wha
   - Which regions or states are generating the highest and lowest sales revenue?
   - Who are our most valuable customer segments based on total purchase value?
   - Which brands or products are underperforming and may need attention or replacement?
-  - What percentage of total revenue comes from our top-performing products or categories?
+  - What percentage of total sales comes from our top-performing products or categories?
 
  Product Team wanted to know;
   - Which product categories are driving the most sales?
   - Which product brands/types are growing or declining over time?
-  - What are our top-performing and lowest-performing products?
   - Are certain product types more popular in certain regions or segments?
   - How diverse is our product portfolio in terms of sales distribution?
+  - What are the top 3 product category in each country that drives our sales
+  - What brand drives most sales in each customer segment and age group? 
 
 ### Data Structure Overview
   Novamart Ltd. retail transactional data contains information about customers, their purchases, products, and transaction details. The data includes various attributes such as customer ID, name, email, phone, address, city, state, zipcode, country, age, gender, income, customer segment, last purchase date, total purchases, amount spent, product category, product brand, product type, feedback, shipping method, payment method, and order status.
@@ -32,13 +33,41 @@ Novamart Ltd. analysis of over 302k records across 2023-2024 shows a **20%** **d
     For the products Pepsi has being the most sold out brand for the last two years.
 
 ###   Insights Deep Dive
-     - Sales Team Insights 
-          - The company's sales peaked in april 2023 with over 201k orders totaling $51M+ monthly sales amount. Beginning of march 2024 sales amount took a drastic decline and has since not rised above $6M in total monthly sales, which is also partly because the number of purchase has drastically reduced over the course of the year.
-          - Total Sales Amount only saw a two month year over year increase in january and february 2024, which can be attributed to and increase in order quatities in the two months.
-          - USA generates the highest sales revenue consistently for both years, followed by UK which is in second place, together they contribute 52% od the total sales, while canada generates the lowest sales revenue, for the cities chciago contributes the most and kansas has the lowest contribution to sales
-          - **Adults(25-64)** are our most valuable customer in terms of age bracket as they contribute **60%** of total sales, while in terms of customer segment our **regular** customers contribute **48%** of our total sales, which is almost half of our sales making them our most valuable customer segment.
-          - Whirepool, Bluestar and Mitsubhisi are brands that are underperforming as they have fail to make up to half of the average total sales for brands amount which is $11M. Granola bars, package AC, parka, razer Blade, recessed lighting, tape measure, throw pillow, toys, white chocolate, wrench are the top 10 least performing products in terms of total sales amount.
-          - 
+   - Sales Team Insights 
+     - Sales peaked in April 2023, recording over 201,000 orders and generating more than $51 million in revenue.
+However, starting March 2024, sales experienced a significant drop, with monthly revenue not rising above $6 million — primarily due to a decline in order volume throughout the year.
+     - Year-over-year growth was only observed in January and February 2024, attributed to a temporary increase in order quantities during those months.
+Other months showed a decline in sales compared to 2023.
+     - The United States consistently generates the highest revenue, followed by the United Kingdom. Together, they contribute 52% of total global sales, while Canada lags behind as the lowest-performing country.
+On a city level, Chicago contributes the most, whereas Kansas records the lowest sales.
+     - The 25–64 age group (Adults) accounts for 60% of total sales, making them the company’s most valuable age demographic. Among customer segments, Regular customers contribute 48% of sales, highlighting their importance in retention and revenue stability.
+     - Brands such as Whirlpool, Bluestar, and Mitsubishi are underperforming, generating less than half of the average brand sales value ($11 million).
+Additionally, products like Granola Bars, Package AC, Parka, Razer Blade, and Wrench are among the 10 least-performing products.
+     - The Top 10 best performing product (alkaline water, artesian water, bottled water, coconut water, distilled water, flavored water, mineral water, mystery, sparkling water, spring water) contribute to 8% of the total sales and for the top performing category (Electronics) contributes 23.6% of total sales.
+   - Product Team Insights
+     - The Electronics category consistently drives the most revenue across both 2023 and 2024, underscoring the value and demand for everyday tech products.
+The Motorola Moto ranks as the highest selling item within this category.
+     - Product preferences vary by region:
+In the U.S., Water is the most popular product type — likely driven by weather-related demand.
+In the U.K., Non-Fiction books top the sales chart, suggesting a strong literary consumption pattern.
+     - Our product portfolio shows moderate diversity. Electronics alone contributes 24% of total revenue, while Grocery follows closely with 22%. The remaining categories (Books, Clothing, Home Decor) each contribute around 18%
+     - The top three category of products that drives our sales in each country is shown below
+     - Pepsi is the most popular brand for the three customer segment (New, Regular and Premium), while for the age brackets (Pepsi is the most popular for adults, Apple brand for children, Samsung for seniors and youths )
+
+### Recommendation
+   - Initiate a deep-dive sales audit starting March 2024 to identify key drivers behind the decline (e.g., supply chain, seasonality, product availability).
+Launch recovery campaigns or incentive promotions in historically strong months to regain momentum.
+   - Analyze marketing, pricing, and product strategy during these two months. Replicate successful tactics in upcoming quarters and incorporate them into a seasonal sales playbook.
+   - Double down on high-performing markets (USA & UK) with localized promotions and supply optimization, while conducting a market potential assessment for Canada to decide on investment vs divestment strategies.
+   - Review these poor-performing brands and products to understand why they’re not selling well (e.g., too expensive? not popular?). If there’s no improvement, consider removing them or replacing them with better-selling products. Also, talk to the sales or product team about discounting or promoting these items to help clear out slow-moving stock.
+   - In the U.S., run water product deals or features. In the U.K., push non-fiction books more — both online and in promotions. This will help give people what they already like, and improve sales.
+   - Target ads based on age:
+     - Promote Pepsi to adults
+     - Use fun Apple-themed ads for kids
+     - Highlight Samsung’s features for young and older people. This way, each age group sees the brand they like, and we can improve sales by speaking directly to their preferences.
+
+          
+
 
 
           
