@@ -45,25 +45,34 @@ However, starting March 2024, sales experienced a significant drop, with monthly
         ![Image](https://github.com/user-attachments/assets/3aea3d19-638c-4a02-b281-40c79e8e95c3)
      - Year-over-year growth was only observed in January and February 2024, attributed to a temporary increase in order quantities during those months.
 Other months showed a decline in sales compared to 2023.
-         ![Image](https://github.com/user-attachments/assets/d967ed2a-62de-4b1b-acb0-99dc0e44812e)
+
+        ![Image](https://github.com/user-attachments/assets/d967ed2a-62de-4b1b-acb0-99dc0e44812e)
      - The United States consistently generates the highest revenue, followed by the United Kingdom. Together, they contribute 52% of total global sales, while Canada lags behind as the lowest-performing country.
 On a city level, Chicago contributes the most, whereas Kansas records the lowest sales.
 
-       
+        ![Image](https://github.com/user-attachments/assets/9e3a6c7e-b783-4fed-aa4e-563a858f94a1)
 
      - The 25–64 age group (Adults) accounts for 60% of total sales, making them the company’s most valuable age demographic. Among customer segments, Regular customers contribute 48% of sales, highlighting their importance in retention and revenue stability.
+
      
      - Brands such as Whirlpool, Bluestar, and Mitsubishi are underperforming, generating less than half of the average brand sales value ($11 million).
 Additionally, products like Granola Bars, Package AC, Parka, Razer Blade, and Wrench are among the 10 least-performing products.
 
+        ![Image](https://github.com/user-attachments/assets/ea51d3c3-ecc8-4a82-b63e-33d73a16660b) 
      - The Top 10 best performing product (alkaline water, artesian water, bottled water, coconut water, distilled water, flavored water, mineral water, mystery, sparkling water, spring water) contribute to 8% of the total sales and for the top performing category (Electronics) contributes 23.6% of total sales.
+
+        ![Image](https://github.com/user-attachments/assets/08ac2114-0600-4a2a-81dc-a77007c302d9) 
    - Product Team Insights
      - The Electronics category consistently drives the most revenue across both 2023 and 2024, underscoring the value and demand for everyday tech products.
 The Motorola Moto ranks as the highest selling item within this category.
+
+        ![Image](https://github.com/user-attachments/assets/51f83de8-0af9-469e-8dcd-cca86c3539a4)  
      - Product preferences vary by region:
 In the U.S., Water is the most popular product type likely driven by weather-related demand.
 In the U.K., Non-Fiction books top the sales chart, suggesting a strong literary consumption pattern.
      - Our product portfolio shows moderate diversity. Electronics alone contributes 24% of total revenue, while Grocery follows closely with 22%. The remaining categories (Books, Clothing, Home Decor) each contribute around 18%
+
+        ![Image](https://github.com/user-attachments/assets/be2c7970-b44f-43e1-b437-714dead21e74)
      - The top three category of products that drives our sales in each country are listed below
        - U.S (Grocery, Electronics, Books)
        - U.k (Electronics, Grocery, Clothing)
