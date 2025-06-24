@@ -34,6 +34,7 @@ Novamart Ltd. analysis of over **302k records** across **2023-2024** shows a **2
     For the products **Pepsi** has being the most sold out brand for the last two years. 
 
 Below is the overview page from the excel dashboard and more examples are included throughout the report. The entire interactive dashboard can be seen here
+![Image](https://github.com/user-attachments/assets/46e2d404-f796-45dc-b22f-1fe9ff41656b) 
 
 ###   Insights Deep Dive
    - Sales Team Insights 
