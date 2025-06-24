@@ -52,20 +52,27 @@ Other months showed a decline in sales compared to 2023.
      - The United States consistently generates the highest revenue, followed by the United Kingdom. Together, they contribute 52% of total global sales, while Canada lags behind as the lowest-performing country.
 On a city level, Chicago contributes the most, whereas Kansas records the lowest sales.
 
-
+       
 
      - The 25–64 age group (Adults) accounts for 60% of total sales, making them the company’s most valuable age demographic. Among customer segments, Regular customers contribute 48% of sales, highlighting their importance in retention and revenue stability.
+     
      - Brands such as Whirlpool, Bluestar, and Mitsubishi are underperforming, generating less than half of the average brand sales value ($11 million).
 Additionally, products like Granola Bars, Package AC, Parka, Razer Blade, and Wrench are among the 10 least-performing products.
+
      - The Top 10 best performing product (alkaline water, artesian water, bottled water, coconut water, distilled water, flavored water, mineral water, mystery, sparkling water, spring water) contribute to 8% of the total sales and for the top performing category (Electronics) contributes 23.6% of total sales.
    - Product Team Insights
      - The Electronics category consistently drives the most revenue across both 2023 and 2024, underscoring the value and demand for everyday tech products.
 The Motorola Moto ranks as the highest selling item within this category.
      - Product preferences vary by region:
-In the U.S., Water is the most popular product type — likely driven by weather-related demand.
+In the U.S., Water is the most popular product type likely driven by weather-related demand.
 In the U.K., Non-Fiction books top the sales chart, suggesting a strong literary consumption pattern.
      - Our product portfolio shows moderate diversity. Electronics alone contributes 24% of total revenue, while Grocery follows closely with 22%. The remaining categories (Books, Clothing, Home Decor) each contribute around 18%
-     - The top three category of products that drives our sales in each country is shown below
+     - The top three category of products that drives our sales in each country are listed below
+       - U.S (Grocery, Electronics, Books)
+       - U.k (Electronics, Grocery, Clothing)
+       - Australia (Electronics, Grocery, Home decor)
+       - Canada (Electronics, Grocery, Clothing)
+       - Germany (Electronics, Grocery, Home decor)
      - Pepsi is the most popular brand for the three customer segment (New, Regular and Premium), while for the age brackets (Pepsi is the most popular for adults, Apple brand for children, Samsung for seniors and youths )
 
 ### Recommendation
