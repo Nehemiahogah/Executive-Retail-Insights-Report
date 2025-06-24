@@ -29,11 +29,11 @@ Insights And Recommendation are provided on the following key areas based on wha
 
 Prior to starting my analysis, I cleaned the data set and the thought process and everything I did in my data leaning process can be found in my issue log here
 
-
-
 ###   Executive Summary
-Novamart Ltd. analysis of over 302k records across 2023-2024 shows a **20%** **decline** of sales amount in 2024 as compared to 2023, with this **decline** being consistent among the months when compared to months of the previous year showing that there is definitely a factor contributing to this. **Adults(25-64)** contribute **60%** of total sales, while our **regular** and **premium customers** contribute **69%** of our total sales.
-    For the products Pepsi has being the most sold out brand for the last two years.
+Novamart Ltd. analysis of over **302k records** across **2023-2024** shows a **20%** **decline** of sales amount in 2024 as compared to 2023, with this **decline** being consistent among the months when compared to months of the previous year showing that there is definitely a factor contributing to this. **Adults(25-64)** contribute **60%** of **total sales**, while our **regular** and **premium customers** contribute **69%** of our total sales.
+    For the products **Pepsi** has being the most sold out brand for the last two years. 
+
+Below is the overview page from the excel dashboard and more examples are included throughout the report. The entire interactive dashboard can be seen here
 
 ###   Insights Deep Dive
    - Sales Team Insights 
