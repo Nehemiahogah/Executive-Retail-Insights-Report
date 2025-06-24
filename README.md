@@ -25,7 +25,7 @@ Insights And Recommendation are provided on the following key areas based on wha
   Novamart Ltd. retail transactional data contains information about customers, their purchases, products, and transaction details. The data includes various attributes such as customer ID, name, email, phone, address, city, state, zipcode, country, age, gender, income, customer segment, last purchase date, total purchases, amount spent, product category, product brand, product type, feedback, shipping method, payment method, and order status.
   The company's dataset has a rowcount of over 302,000 rows where each row contains a unique transaction in the company over the course of two years (2023 - 2024)
 
-![Image](https://github.com/user-attachments/assets/c3ad35b3-47f1-4dee-baab-a872e6e9a6c0)
+    ![Image](https://github.com/user-attachments/assets/c3ad35b3-47f1-4dee-baab-a872e6e9a6c0)
 
 Prior to starting my analysis, I cleaned the data set and the thought process and everything I did in my data leaning process can be found in my issue log here
 
@@ -35,22 +35,25 @@ Novamart Ltd. analysis of over **302k records** across **2023-2024** shows a **2
 
 Below is the overview page from the excel dashboard and more examples are included throughout the report. The entire interactive dashboard can be seen here
 
-![Image](https://github.com/user-attachments/assets/46e2d404-f796-45dc-b22f-1fe9ff41656b) 
+    ![Image](https://github.com/user-attachments/assets/46e2d404-f796-45dc-b22f-1fe9ff41656b) 
 
 ###   Insights Deep Dive
    - Sales Team Insights 
      - Sales peaked in April 2023, recording over 201,000 orders and generating more than $51 million in revenue.
 However, starting March 2024, sales experienced a significant drop, with monthly revenue not rising above $6 million primarily due to a decline in order volume throughout the year.
 
-![Image](https://github.com/user-attachments/assets/3aea3d19-638c-4a02-b281-40c79e8e95c3)
+    ![Image](https://github.com/user-attachments/assets/3aea3d19-638c-4a02-b281-40c79e8e95c3)
      
      - Year-over-year growth was only observed in January and February 2024, attributed to a temporary increase in order quantities during those months.
 Other months showed a decline in sales compared to 2023.
 
-![Image](https://github.com/user-attachments/assets/d967ed2a-62de-4b1b-acb0-99dc0e44812e)
+     ![Image](https://github.com/user-attachments/assets/d967ed2a-62de-4b1b-acb0-99dc0e44812e)
 
      - The United States consistently generates the highest revenue, followed by the United Kingdom. Together, they contribute 52% of total global sales, while Canada lags behind as the lowest-performing country.
 On a city level, Chicago contributes the most, whereas Kansas records the lowest sales.
+
+
+
      - The 25–64 age group (Adults) accounts for 60% of total sales, making them the company’s most valuable age demographic. Among customer segments, Regular customers contribute 48% of sales, highlighting their importance in retention and revenue stability.
      - Brands such as Whirlpool, Bluestar, and Mitsubishi are underperforming, generating less than half of the average brand sales value ($11 million).
 Additionally, products like Granola Bars, Package AC, Parka, Razer Blade, and Wrench are among the 10 least-performing products.
