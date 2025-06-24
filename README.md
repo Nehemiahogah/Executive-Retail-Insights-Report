@@ -35,21 +35,21 @@ Novamart Ltd. analysis of over **302k records** across **2023-2024** shows a **2
 
 Below is the overview page from the excel dashboard and more examples are included throughout the report. The entire interactive dashboard can be seen here
 
-    ![Image](https://github.com/user-attachments/assets/46e2d404-f796-45dc-b22f-1fe9ff41656b) 
+![Image](https://github.com/user-attachments/assets/46e2d404-f796-45dc-b22f-1fe9ff41656b) 
 
 ###   Insights Deep Dive
    - Sales Team Insights 
-     - Sales peaked in April 2023, recording over 201,000 orders and generating more than $51 million in revenue.
+    - Sales peaked in April 2023, recording over 201,000 orders and generating more than $51 million in revenue.
 However, starting March 2024, sales experienced a significant drop, with monthly revenue not rising above $6 million primarily due to a decline in order volume throughout the year.
 
-    ![Image](https://github.com/user-attachments/assets/3aea3d19-638c-4a02-b281-40c79e8e95c3)
+![Image](https://github.com/user-attachments/assets/3aea3d19-638c-4a02-b281-40c79e8e95c3)
      
-     - Year-over-year growth was only observed in January and February 2024, attributed to a temporary increase in order quantities during those months.
+    - Year-over-year growth was only observed in January and February 2024, attributed to a temporary increase in order quantities during those months.
 Other months showed a decline in sales compared to 2023.
 
-     ![Image](https://github.com/user-attachments/assets/d967ed2a-62de-4b1b-acb0-99dc0e44812e)
+![Image](https://github.com/user-attachments/assets/d967ed2a-62de-4b1b-acb0-99dc0e44812e)
 
-     - The United States consistently generates the highest revenue, followed by the United Kingdom. Together, they contribute 52% of total global sales, while Canada lags behind as the lowest-performing country.
+    - The United States consistently generates the highest revenue, followed by the United Kingdom. Together, they contribute 52% of total global sales, while Canada lags behind as the lowest-performing country.
 On a city level, Chicago contributes the most, whereas Kansas records the lowest sales.
 
        
